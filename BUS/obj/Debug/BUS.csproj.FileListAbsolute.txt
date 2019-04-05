@@ -1,0 +1,14 @@
+D:\1.Sai Gon Uni\Study\An Toàn Bảo Mật Hệ Thống Thông Tin\Project\Bài tập nhóm\Attack_05\BUS\bin\Debug\BUS.exe.config
+D:\1.Sai Gon Uni\Study\An Toàn Bảo Mật Hệ Thống Thông Tin\Project\Bài tập nhóm\Attack_05\BUS\bin\Debug\BUS.exe
+D:\1.Sai Gon Uni\Study\An Toàn Bảo Mật Hệ Thống Thông Tin\Project\Bài tập nhóm\Attack_05\BUS\bin\Debug\BUS.pdb
+D:\1.Sai Gon Uni\Study\An Toàn Bảo Mật Hệ Thống Thông Tin\Project\Bài tập nhóm\Attack_05\BUS\bin\Debug\DAL.exe
+D:\1.Sai Gon Uni\Study\An Toàn Bảo Mật Hệ Thống Thông Tin\Project\Bài tập nhóm\Attack_05\BUS\bin\Debug\DTO.exe
+D:\1.Sai Gon Uni\Study\An Toàn Bảo Mật Hệ Thống Thông Tin\Project\Bài tập nhóm\Attack_05\BUS\bin\Debug\DAL.pdb
+D:\1.Sai Gon Uni\Study\An Toàn Bảo Mật Hệ Thống Thông Tin\Project\Bài tập nhóm\Attack_05\BUS\bin\Debug\DAL.exe.config
+D:\1.Sai Gon Uni\Study\An Toàn Bảo Mật Hệ Thống Thông Tin\Project\Bài tập nhóm\Attack_05\BUS\bin\Debug\DTO.pdb
+D:\1.Sai Gon Uni\Study\An Toàn Bảo Mật Hệ Thống Thông Tin\Project\Bài tập nhóm\Attack_05\BUS\bin\Debug\DTO.exe.config
+D:\1.Sai Gon Uni\Study\An Toàn Bảo Mật Hệ Thống Thông Tin\Project\Bài tập nhóm\Attack_05\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\1.Sai Gon Uni\Study\An Toàn Bảo Mật Hệ Thống Thông Tin\Project\Bài tập nhóm\Attack_05\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\1.Sai Gon Uni\Study\An Toàn Bảo Mật Hệ Thống Thông Tin\Project\Bài tập nhóm\Attack_05\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\1.Sai Gon Uni\Study\An Toàn Bảo Mật Hệ Thống Thông Tin\Project\Bài tập nhóm\Attack_05\BUS\obj\Debug\BUS.exe
+D:\1.Sai Gon Uni\Study\An Toàn Bảo Mật Hệ Thống Thông Tin\Project\Bài tập nhóm\Attack_05\BUS\obj\Debug\BUS.pdb
